@@ -9,12 +9,12 @@ Capstone Engine
 Deprecation
 ===========
 
-The [`master`](https://github.com/capstone-engine/capstone/tree/master) branch is deprecated.
-All forward development should be based on the [`next`](https://github.com/capstone-engine/capstone/tree/next) branch.
+The [`master`](https://github.com/trhacknon/capstone/tree/master) branch is deprecated.
+All forward development should be based on the [`next`](https://github.com/trhacknon/capstone/tree/next) branch.
 
 To clone a fresh checkout with the `next` branch:
 
-    git clone -b next https://github.com/capstone-engine/capstone
+    git clone -b next https://github.com/trhacknon/capstone
 
 To change to the `next` branch in an existing checkout:
 
@@ -24,7 +24,7 @@ To change to the `next` branch in an existing checkout:
 
 We moved the original historical repo of Capstone from https://github.com/aquynh/capstone to an organization, where we can add more maintainers to the project, and push Capstone development forward.
 
-Our new home is https://github.com/capstone-engine/capstone
+Our new home is https://github.com/trhacknon/capstone
 
 Nov 8th, 2021.
 
