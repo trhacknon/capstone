@@ -26,7 +26,7 @@ We moved the original historical repo of Capstone from https://github.com/aquynh
 
 Our new home is https://github.com/trhacknon/capstone
 
-Nov 8th, 2021.
+May 8th, 2022.
 
 ----
 
